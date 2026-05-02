@@ -1,0 +1,7 @@
+opencv-python>=4.8
+mediapipe>=0.10
+numpy>=1.24
+PyQt6>=6.5
+matplotlib>=3.7
+reportlab>=4.0
+Pillow>=10.0
